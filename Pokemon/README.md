@@ -8,3 +8,6 @@ The purpose of this lab to create a simple Pokemon battle between the user and t
 
 ![alt tag](https://github.com/AndreaHabib/330_JAVA_OOP/blob/main/Pokemon/Pokemon-Game.png)
 
+## Sample Output
+![alt tag](https://github.com/AndreaHabib/330_JAVA_OOP/blob/main/Pokemon/output.png)
+
