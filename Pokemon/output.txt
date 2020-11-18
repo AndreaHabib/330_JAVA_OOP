@@ -1,0 +1,118 @@
+Welcome to the Pokemon game!
+Choose your pokemon!
+
+1 for Pikachu or 2 for Bulbasaur
+Pokemon: 1
+
+Choose your item!
+
+1 for Hit points potion or 2 for Power Points potion
+Item: 1
+Human used Pikachu!
+Computer used Bulbasaur!
+
+Human
+HP: 100
+PP: 20
+
+Computer
+HP: 100
+PP: 20
+
+Choose one of the attacks below:
+0. Thunder Shock	 Power Points: 1 DMG: 25
+1. Wild Charge	 Power Points: 5 DMG: 40
+2. Thunderbolt	 Power Points: 1 DMG: 15
+3. Discharge	 Power Points: 3 DMG: 30
+4. Item
+5. Run
+Option: 0
+
+
+Pika!
+Pikachu used Thunder Shock
+
+Bulb!
+Bulbasaur used Vine Whip
+
+Human
+HP: 60
+PP: 19
+
+Computer
+HP: 75
+PP: 15
+
+Choose one of the attacks below:
+0. Thunder Shock	 Power Points: 1 DMG: 25
+1. Wild Charge	 Power Points: 5 DMG: 40
+2. Thunderbolt	 Power Points: 1 DMG: 15
+3. Discharge	 Power Points: 3 DMG: 30
+4. Item
+5. Run
+Option: 4
+
+
+Human used an item!
+
+Bulb!
+Bulbasaur used Power Whip
+
+Human
+HP: 50
+PP: 19
+
+Computer
+HP: 75
+PP: 12
+
+Choose one of the attacks below:
+0. Thunder Shock	 Power Points: 1 DMG: 25
+1. Wild Charge	 Power Points: 5 DMG: 40
+2. Thunderbolt	 Power Points: 1 DMG: 15
+3. Discharge	 Power Points: 3 DMG: 30
+4. Item
+5. Run
+Option: 1
+
+
+Pika!
+Pikachu used Wild Charge
+
+Bulb!
+Bulbasaur used Power Whip
+
+Human
+HP: 20
+PP: 14
+
+Computer
+HP: 35
+PP: 9
+
+Choose one of the attacks below:
+0. Thunder Shock	 Power Points: 1 DMG: 25
+1. Wild Charge	 Power Points: 5 DMG: 40
+2. Thunderbolt	 Power Points: 1 DMG: 15
+3. Discharge	 Power Points: 3 DMG: 30
+4. Item
+5. Run
+Option: 3
+
+
+Pika!
+Pikachu used Discharge
+
+Bulb!
+Bulbasaur used Power Whip
+
+Pikachu has fainted!
+
+Computer is the winner!
+
+Process finished with exit code 0
+
+
+
+
+
